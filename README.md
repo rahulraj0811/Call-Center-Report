@@ -3,4 +3,4 @@
 
 Preview: 
 
-![Image Alt](https://github.com/rahulraj0811/Call-Center-Report/blob/main/Call%20Center%20Report%20Dashboard.jpg?raw=true)
+![Image Alt](https://github.com/rahulraj0811/Call-Center-Report/blob/70c46e4beafd3c7bc7edbc8064c943810c888709/Call%20Center%20Dashboard.jpg)
